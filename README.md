@@ -35,7 +35,7 @@ The network was trained using:
 - Learning Rate: 0.001
 
 ## Results
-- Validation Accuracy: **XX%** (replace with your actual accuracy)
+- Validation Accuracy: **72.13%**
 - The model performs well on clear images of common waste items.
 - Some confusion occurs between similar-looking materials (e.g., certain plastics and glass).
 
@@ -46,7 +46,7 @@ The network was trained using:
 4. The trained model is saved as `waste_classifier.pth`
 
 ## Files Included
-- `Waste_Classifier_PyTorch.ipynb` → Complete training and testing notebook
+- `Smart Waste Detection Neural Networks.ipynb` → Complete training and testing notebook
 - `waste_classifier.pth` → Trained model weights
 - Prediction samples and training graphs
 
@@ -62,5 +62,5 @@ The network was trained using:
 - Improve accuracy with a deeper network or transfer learning
 
 ## Author
-[Your Full Name]  
+[Figo Marcus Fernandes]  
 MSc AI Student
